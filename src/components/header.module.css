@@ -1,0 +1,10 @@
+.header {
+  background-color: olive;
+  color: rgb(188, 171, 171);
+  text-align: center;
+  font-weight: bold;
+  height: 50px;
+  padding: 10px;
+  font-size: 2em;
+  box-shadow: 0 4px 6px 5px rgba(0, 0, 0, 0.2);
+}
